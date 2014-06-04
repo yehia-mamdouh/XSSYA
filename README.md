@@ -1,13 +1,12 @@
-XSSYA
-=====
-
 XSSYA is a Cross Site Scripting  Scanner & Vulnerability Confirmation (Woring in two Methods )
 
 
-* Request and Response 
-* Searching for Payload decoded in the Web Page Code after excuting the paylod encoded !
+
+* Method number 1 for Confiramtion Request and Response 
+* Method number 2 for Confiramtion Excute encoded payload and search for the same payload in web HTML code but decoded
 * Suppport HTTPS
 * After Confirmation (execute payload to get cookies)
+* Can be run in (Windows - Linux)
 
 
 XSSYA Countine Library of Encoded Payloads To Bypass WAF (Web Application Firewall)
