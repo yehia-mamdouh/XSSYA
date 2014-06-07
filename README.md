@@ -1,29 +1,29 @@
-XSSYA is a Cross Site Scripting  Scanner & Vulnerability Confirmation (Woring in two Methods )
+XSSYA is a Cross Site Scripting  Scanner & Vulnerability Confirmation (Working in two Methods)
 
 
 
-* Method number 1 for Confiramtion Request and Response 
-* Method number 2 for Confiramtion Execute encoded payload and search for the same payload in web HTML code but decoded
+* Method number 1 for Confirmation Request and Response 
+* Method number 2 for Confirmation Execute encoded payload and search for the same payload in web HTML code but decoded
 * Suppport HTTPS
 * After Confirmation (execute payload to get cookies)
 * Identify 3 Types of WAF (Mod_Security - WebKnight - F5 BIG IP)
 * Can be run in (Windows - Linux)
 
 
-XSSYA Countine Library of Encoded Payloads To Bypass WAF (Web Application Firewall)
+XSSYA contains Library of Encoded Payloads To Bypass WAF (Web Application Firewall)
 
-It Aslo Support Saving The Web Html Code Before Executing the Payload 
+It Also Supports Saving The Web Html Code Before Executing the Payload 
 Viewing the Web HTML Code into the Screen or Terminal 
 
 
 $ python xssya.py
 
-Links sould end with (/or=or?)
+Links should end with (/or=or?)
 
 
 Example 
 
-$ Pytohn xssya.py
+$ python xssya.py
 
 http://www.domain.com/
 http://www.domain.com=
