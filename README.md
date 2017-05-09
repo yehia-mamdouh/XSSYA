@@ -1,3 +1,5 @@
+XSSYA-V2.0 has been Released - check https://github.com/yehia-mamdouh/XSSYA-V-2.0
+
 XSSYA is a Cross Site Scripting Scanner & Vulnerability Confirmation (Working in two Methods)
 
 •	Method number 1 for Confirmation Request and Response
